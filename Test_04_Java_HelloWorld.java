@@ -9,13 +9,6 @@ public class Test_04_Java_HelloWorld {
 
 		}
 
-		for(i=0;i<=100;i++){
-
-
-			System.out.println("Test number 4..."+i);
-
-		}
-
 
 	}
 
